@@ -19,7 +19,7 @@
   "author": "Andrés Felipe Achury Jaramillo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "memcached": "^2.2.2"
   }
 }
